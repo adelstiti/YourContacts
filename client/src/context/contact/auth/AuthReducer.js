@@ -3,7 +3,7 @@ import {
 } from '../../types';
 
 
-export default(state,action) => {
+const AuthReducer = (state,action) =>{
 
     switch(action.type){
 
@@ -49,5 +49,7 @@ export default(state,action) => {
         default : return state; 
     }
 }
+
+export default AuthReducer;
 
 
