@@ -2,7 +2,7 @@
 
 This project was developed to improve knowledge.
 
-Check out the demo : [https://yourcoontacts.herokuapp.com](https://yourcoontacts.herokuapp.com/)
+Check out the demo : [https://yourcontacts.onrender.com](https://yourcontacts.onrender.com/)
 
 You can read more about me on: [LinkedIn](https://www.linkedin.com/in/adel-stiti-9ba760158/).
 
@@ -12,8 +12,10 @@ You can read more about me on: [LinkedIn](https://www.linkedin.com/in/adel-stiti
 <p align="center"><img src="https://i.ibb.co/XW3C24T/image.png" /></p>
 
 **Use..**
-- React's Context API
+- ReactJS
 - ExpressJS
+- MongoDB
+- React's Context API
 
 
 # License
